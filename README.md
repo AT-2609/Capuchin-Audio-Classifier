@@ -1,7 +1,5 @@
 # Capuchin-Audio-Classifier
 
-# Capuchin Audio Detection (Deep Learning)
-
 This project builds a deep learning pipeline to detect Capuchin bird calls from forest audio recordings using Convolutional Neural Networks (CNNs) and spectrogram analysis.
 
 ## Overview
